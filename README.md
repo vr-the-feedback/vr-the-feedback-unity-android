@@ -1,6 +1,6 @@
-# VR The Feedback.
+# VR The Feedback - Android.
 
-Virtual Reality Voice Feedback Plugin for Unity.
+Virtual Reality Voice Feedback Plugin for Unity (for Android).
 
 Learn more: http://www.vrthefeedback.com/ and https://twitter.com/vrthefeedback
 
@@ -12,7 +12,7 @@ Testing: Open ./Assets/VRTheFeedback/Scenes/Demo2DUI.unity in Unity. Enter "Play
 
 ## Installation
 
-* Download vr-the-feedback-0.1.unitypackage
+* Download vr-the-feedback-android-0.1.unitypackage
 * Import in Unity (requires SteamVR and VRTK for VR scene to work.)
-* Drag prefabs into the scene: VRTheFeedbackManager, GrabbableMic
+* Drag prefabs into the scene: VRTheFeedbackManager
 * Configure PROJECT_KEY on VRTheFeedbackManager.
